@@ -1,0 +1,17 @@
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\DL.deps.json
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\DL.runtimeconfig.json
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\DL.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\DL.pdb
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\ML.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\bin\Debug\net8.0\ML.pdb
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.csproj.AssemblyReference.cache
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.AssemblyInfoInputs.cache
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.AssemblyInfo.cs
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.csproj.Up2Date
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\refint\DL.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.pdb
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\DL.genruntimeconfig.cache
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\DL\obj\Debug\net8.0\ref\DL.dll
