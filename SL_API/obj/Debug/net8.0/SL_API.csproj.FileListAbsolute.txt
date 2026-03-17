@@ -144,3 +144,4 @@ C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejerci
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\SL_API\obj\Debug\net8.0\SL_API.pdb
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\SL_API\obj\Debug\net8.0\SL_API.genruntimeconfig.cache
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\SL_API\obj\Debug\net8.0\ref\SL_API.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\SL_API\obj\Debug\net8.0\SL_API.sourcelink.json

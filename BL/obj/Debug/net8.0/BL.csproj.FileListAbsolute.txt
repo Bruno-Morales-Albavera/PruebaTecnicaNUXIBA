@@ -17,3 +17,4 @@ C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejerci
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\BL\obj\Debug\net8.0\BL.pdb
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\BL\obj\Debug\net8.0\BL.genruntimeconfig.cache
 C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\BL\obj\Debug\net8.0\ref\BL.dll
+C:\Users\pokeb\OneDrive\Escritorio\Bruno Morales Albavera\Proyecto NUXIBA\Ejercicio 1 y 3\BL\obj\Debug\net8.0\BL.sourcelink.json

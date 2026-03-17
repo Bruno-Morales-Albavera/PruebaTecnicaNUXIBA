@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB30D588-DA3F-46BA-7D89-852F717B4DA3}|DL\\DL.csproj|c:\\users\\pokeb\\onedrive\\escritorio\\bruno morales albavera\\proyecto nuxiba\\ejercicio 1 y 3\\dl\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB30D588-DA3F-46BA-7D89-852F717B4DA3}|DL\\DL.csproj|solutionrelative:dl\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9372134D-1611-7D77-0539-DBBD897F17B7}|BL\\BL.csproj|c:\\users\\pokeb\\onedrive\\escritorio\\bruno morales albavera\\proyecto nuxiba\\ejercicio 1 y 3\\bl\\loginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9372134D-1611-7D77-0539-DBBD897F17B7}|BL\\BL.csproj|solutionrelative:bl\\loginbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD25DE-7922-0D17-F4AE-0ED715A59BAB}|SL_API\\SL_API.csproj|c:\\users\\pokeb\\onedrive\\escritorio\\bruno morales albavera\\proyecto nuxiba\\ejercicio 1 y 3\\sl_api\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCBD25DE-7922-0D17-F4AE-0ED715A59BAB}|SL_API\\SL_API.csproj|solutionrelative:sl_api\\controllers\\loginscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB30D588-DA3F-46BA-7D89-852F717B4DA3}|DL\\DL.csproj|c:\\users\\pokeb\\onedrive\\escritorio\\bruno morales albavera\\proyecto nuxiba\\ejercicio 1 y 3\\dl\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB30D588-DA3F-46BA-7D89-852F717B4DA3}|DL\\DL.csproj|solutionrelative:dl\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB72F72D-F002-4612-C803-4FC051A1F37B}|ML\\ML.csproj|c:\\users\\pokeb\\onedrive\\escritorio\\bruno morales albavera\\proyecto nuxiba\\ejercicio 1 y 3\\ml\\ccloglogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,24 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "LoginsController.cs",
+              "DocumentMoniker": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\SL_API\\Controllers\\LoginsController.cs",
+              "RelativeDocumentMoniker": "SL_API\\Controllers\\LoginsController.cs",
+              "ToolTip": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\SL_API\\Controllers\\LoginsController.cs",
+              "RelativeToolTip": "SL_API\\Controllers\\LoginsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T02:25:53.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LoginRepository.cs",
               "DocumentMoniker": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\DL\\LoginRepository.cs",
               "RelativeDocumentMoniker": "DL\\LoginRepository.cs",
               "ToolTip": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\DL\\LoginRepository.cs",
               "RelativeToolTip": "DL\\LoginRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T20:13:22.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CcLogLogin.cs",
               "DocumentMoniker": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\ML\\CcLogLogin.cs",
               "RelativeDocumentMoniker": "ML\\CcLogLogin.cs",
@@ -47,18 +64,17 @@
               "RelativeToolTip": "ML\\CcLogLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T00:15:19.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T00:15:19.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginBusiness.cs",
               "DocumentMoniker": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\BL\\LoginBusiness.cs",
               "RelativeDocumentMoniker": "BL\\LoginBusiness.cs",
               "ToolTip": "C:\\Users\\pokeb\\OneDrive\\Escritorio\\Bruno Morales Albavera\\Proyecto NUXIBA\\Ejercicio 1 y 3\\BL\\LoginBusiness.cs",
               "RelativeToolTip": "BL\\LoginBusiness.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwGIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T00:14:39.769Z",
               "EditorCaption": ""
