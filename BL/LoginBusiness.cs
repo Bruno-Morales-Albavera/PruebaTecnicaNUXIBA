@@ -20,7 +20,7 @@ namespace BL
             }
             catch (Exception ex)
             {
-                throw new Exception($"Error al obtener los registros: {ex.Message}");
+                throw new Exception($"Error al obtener los registros en la base de datos: {ex.Message}");
             }
         }
 
